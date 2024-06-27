@@ -1,7 +1,5 @@
 # Hi there, I'm [Bored Programmer] 👋
 
-![Profile Banner](https://via.placeholder.com/1000x300)
-
 Welcome to my GitHub profile! I'm an I.T Student who loves to create useless projects and waste my time coding when i'm bored.
 
 ---
