@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Bored Programmer] 👋
 
 ![Profile Banner](https://via.placeholder.com/1000x300)
 
