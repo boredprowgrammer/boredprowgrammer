@@ -27,52 +27,26 @@ Welcome to my GitHub profile! I'm an I.T Student who loves to create useless pro
 
 ## 📈 GitHub Stats
 
-![boredprowgrammer GitHub stats](https://github-readme-stats.vercel.app/api?username=janandreiiii&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreiiii&layout=compact)
+![boredprowgrammer GitHub stats](https://github-readme-stats.vercel.app/api?username=boredprowgrammer&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boredprowgrammer&layout=compact)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+u basically can't, cuz why not. 
 <!-- Add more social links if you have -->
 
 ---
 
 ## 🏆 Achievements
 
-- With High Honors (Thats it, cuz I'm bored)
+- I do not achieve anything except academically. 
 
 ---
 
-## 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of your first blog post](URL)
-- [Title of your second blog post](URL)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🧑‍💻 Open Source Contributions
-
-- [Project Name](URL)
-- [Project Name](URL)
-
----
-
-## 🌟 Featured Projects
-
-- [Project Name](URL) - A brief description of the project
-- [Project Name](URL) - A brief description of the project
-
----
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat.
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boredprowgrammer.boredprowgrammer)
 
