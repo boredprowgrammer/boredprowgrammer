@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm an I.T Student who loves to create useless pro
 
 ## 🏆 Achievements
 
-- [Any achievements, certifications, awards, etc.]
+- [With High Honors (Thats it, cuz I'm bored)]
 
 ---
 
