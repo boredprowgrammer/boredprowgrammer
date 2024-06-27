@@ -1,4 +1,4 @@
-# Hi there, I'm [Bored Programmer] 👋
+# Hi there, I'm Bored Programmer 👋
 
 Welcome to my GitHub profile! I'm an I.T Student who loves to create useless projects and waste my time coding when i'm bored.
 
