@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm an I.T Student who loves to create useless pro
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![boredprowgrammer GitHub stats](https://github-readme-stats.vercel.app/api?username=janandreiiii&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreiiii&layout=compact)
 
 ---
 
