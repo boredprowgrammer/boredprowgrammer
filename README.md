@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm an I.T Student who loves to create useless pro
 
 ## 🚀 About Me
 
-- 🔭 I’m currently studying at STI College
+- 🔭 I’m currently studying at the University of the Assumption
+- I am currently taking Bachelor of Science in Information Technology
 - 💬 Ask me about my life as a programmer
 - 📫 How to reach me: you can't
 - ⚡ Fun fact: i am bored
